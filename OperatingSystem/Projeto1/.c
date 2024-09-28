@@ -1,6 +1,6 @@
 /*
-    Gustavo Nascimento Siqueira
-    10419057
+    Gustavo Nascimento Siqueira - 10419057
+    Felipe Ujvari Gasparino de Souza - 10418415
 */
 
 // Usando Mutex para sincronizar mudanças, e lidando adequadamente com concorrência
