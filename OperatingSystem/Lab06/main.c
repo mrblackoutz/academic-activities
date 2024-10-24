@@ -24,15 +24,17 @@ celula *criar_celula(int valor)
 }
 
 // Função para imprimir todos os valores da lista
-void imprimir_lista(celula *inicio)
-{
+void imprimir_lista(celula *inicio) {
     celula *atual = inicio;
-    while (atual != NULL)
-    {
-        printf("%d ", atual->conteudo);
+    printf("[");
+    while (atual != NULL) {
+        printf("%d", atual->conteudo);
         atual = atual->prox;
+        if (atual != NULL) {
+            printf(", ");
+        }
     }
-    printf("\n");
+    printf("]\n");
 }
 
 // Função para remover elementos da lista e liberar memória
