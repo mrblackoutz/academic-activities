@@ -4,6 +4,7 @@
 - **Memória gasta por cada célula:** 16 bytes
 - **Lista após remoção:**  []
 - **Máximo de elementos possíveis na fila:** 1.073.741.824
+
 ![Resultado execução](printS.png)
 ---
 
