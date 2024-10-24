@@ -4,7 +4,7 @@
 - **Memória gasta por cada célula:** 16 bytes
 - **Lista após remoção:**  []
 - **Máximo de elementos possíveis na fila:** 1.073.741.824
-
+![Resultado execução](printS.png)
 ---
 
 Uma lista encadeada é uma representação de uma sequência de objetos, todos do mesmo tipo, na memória RAM (random access memory) do computador. Cada elemento da sequência é armazenado em uma célula da lista: o primeiro elemento na primeira célula, o segundo na segunda e assim por diante. [FEOFILOFF, 2016]
